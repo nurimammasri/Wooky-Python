@@ -33,7 +33,7 @@ Wooky Python
 * Sanbercode - Data Science
 * Dunia Ilkom
 * Kelas Terbuka
-* https://belajarpython.com/
+* belajarpython.com
 * Petani Kode
 * Tutorialspoint
 
